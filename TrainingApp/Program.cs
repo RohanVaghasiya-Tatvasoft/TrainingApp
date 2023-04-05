@@ -1,7 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using TrainingApp.Entities.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ApplicationDbContext>();
 
 var app = builder.Build();
 
@@ -22,6 +26,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{Area=User}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

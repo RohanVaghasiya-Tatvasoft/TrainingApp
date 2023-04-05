@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zfrxJ6RU6aFIYXuqPsUWtwDB7Nxoo+3dj6hXmmCbLWCGANaBcJayj+3g+QvvqKpUM7vowcvoMkl9UCAp8ml7EQ==",
+  "dgSpecHash": "mtqE+x4fg8f6515PF8nDw6TdCaIKTwYwKOs9iPLxlS1dhJGZsb9L4KemdvoydWlZ5QuEIxjFtkkjWrLuuimByA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\TrainingApp.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\TrainingApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

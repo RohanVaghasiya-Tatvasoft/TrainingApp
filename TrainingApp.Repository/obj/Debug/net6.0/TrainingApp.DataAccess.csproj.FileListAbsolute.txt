@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\bin\Debug\net6.0\TrainingApp.DataAccess.deps.json
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\bin\Debug\net6.0\TrainingApp.DataAccess.runtimeconfig.json
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\bin\Debug\net6.0\TrainingApp.DataAccess.dll
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\bin\Debug\net6.0\TrainingApp.DataAccess.pdb
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.dll
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\refint\TrainingApp.DataAccess.dll
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.pdb
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.genruntimeconfig.cache
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\ref\TrainingApp.DataAccess.dll

@@ -3516,9 +3516,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\TrainingApp.Repository.csproj",
-      "projectName": "TrainingApp.Repository",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\TrainingApp.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\TrainingApp.DataAccess.csproj",
+      "projectName": "TrainingApp.DataAccess",
+      "projectPath": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\TrainingApp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hp\\source\\repos\\TrainingApp_Web\\TrainingApp.Repository\\obj\\",
       "projectStyle": "PackageReference",
