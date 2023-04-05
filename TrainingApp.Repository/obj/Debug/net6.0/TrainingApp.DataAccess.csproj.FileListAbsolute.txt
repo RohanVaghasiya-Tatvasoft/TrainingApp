@@ -12,3 +12,6 @@ C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0
 C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.pdb
 C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.genruntimeconfig.cache
 C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\ref\TrainingApp.DataAccess.dll
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\bin\Debug\net6.0\TrainingApp.Entities.dll
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\bin\Debug\net6.0\TrainingApp.Entities.pdb
+C:\Users\Hp\source\repos\TrainingApp_Web\TrainingApp.Repository\obj\Debug\net6.0\TrainingApp.DataAccess.csproj.CopyComplete
